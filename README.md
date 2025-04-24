@@ -33,6 +33,7 @@
 ### 🧠 Technologies & Tools
 
 #### 🐍 **Python**  
+<img src="https://learn.microsoft.com/en-us/training/achievements/beginner-python.svg" width="80" height="30" style="vertical-align: middle; margin-left: 8px;">
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `OpenCV` • `Scikit-learn` • `NLTK` • `BeautifulSoup`
 
 #### 🔬 **Frameworks & Platforms**  
