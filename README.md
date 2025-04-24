@@ -52,6 +52,9 @@
 #### 📱 **Mobile / Frontend**  
 - `React Native`, `Android (Java)`
 
+#### 🛠️ **Backend / Database**  
+- `Flask (REST API)`, `MongoDB`, `MySQL`, `SQLite`
+
 ---
 
 ### 💡 Quote
