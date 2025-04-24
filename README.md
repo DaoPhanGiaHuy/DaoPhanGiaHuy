@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DaoPhanGiaHuy</h1>
+<h1 align="center">Hi  DaoPhanGiaHuy</h1>
 <h3 align="center">Specialized in Computer Engineering, Computer Science & IC Design</h3>
 
 ---
