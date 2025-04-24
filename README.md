@@ -1,5 +1,5 @@
 <h1 align="center">DaoPhanGiaHuy</h1>
-<h3 align="center">Specialized in Computer Engineering, Computer Science & IC Design</h3>
+<h3 align="center">Specialized in Computer Engineering, Computer Science </h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🎓 My specialization includes:
   - **Computer Engineering**
   - **Computer Science**
-  - **Integrated Circuit (IC) Design**
+
 
 - 🔬 Areas of interest:
   - Artificial Intelligence (AI)
@@ -18,6 +18,7 @@
   - Machine Learning & Deep Learning
   - Natural Language Processing (NLP)
   - Computer Vision
+  - Integrated Circuit (IC) Design
 
 - 📫 Reach me at: **giahuy070903@gmail.com**
 
