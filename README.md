@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm DaoPhanGiaHuy</h1>
+<h3 align="center">Specialized in Computer Engineering and Computer Science</h3>
 
-<!--
-**DaoPhanGiaHuy/DaoPhanGiaHuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 My specialization is in **Computer Engineering and Computer Science**
+- 🔬 Areas of interest:
+  - Artificial Intelligence (AI)
+  - Data Science
+  - Internet of Things (IoT)
+  - Quantum Computing
+  - Machine Learning & Deep Learning
+  - Natural Language Processing (NLP)
+  - Computer Vision
+
+- 📫 Reach me at: **giahuy070903@gmail.com**
+
+---
+
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaoPhanGiaHuy&show_icons=true&theme=tokyonight" alt="DaoPhanGiaHuy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoPhanGiaHuy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
