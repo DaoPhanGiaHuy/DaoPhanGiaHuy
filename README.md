@@ -1,7 +1,9 @@
 <h1 align="center">DaoPhanGiaHuy</h1>
 <h3 align="center">
   Specialized in Computer Engineering, Computer Science 
-  <img src="https://learn.microsoft.com/en-us/training/achievements/pytorch-intro-trophy.svg" width="50" height="50" alt="Avatar">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/pytorch-intro-trophy.svg" 
+       width="50" height="50" alt="Avatar" 
+       style="vertical-align: middle;">
 </h3>
 
 
