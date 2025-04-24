@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm DaoPhanGiaHuy</h1>
-<h3 align="center">Specialized in Computer Engineering and Computer Science</h3>
+<h3 align="center">Specialized in Computer Engineering, Computer Science & IC Design</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 My specialization is in **Computer Engineering and Computer Science**
+- 🎓 My specialization includes:
+  - **Computer Engineering**
+  - **Computer Science**
+  - **Integrated Circuit (IC) Design**
+
 - 🔬 Areas of interest:
   - Artificial Intelligence (AI)
   - Data Science
@@ -16,6 +20,31 @@
   - Computer Vision
 
 - 📫 Reach me at: **giahuy070903@gmail.com**
+
+---
+
+### 🧠 Technologies & Tools
+
+#### 🐍 **Python**  
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `OpenCV` • `Scikit-learn` • `NLTK` • `BeautifulSoup`
+
+#### 🔬 **Frameworks & Platforms**  
+- `TensorFlow`, `Keras`, `PyTorch`  
+- `Apache Hadoop`, `Apache Spark`  
+- `Microsoft Azure`  
+- `Solidity` (for Blockchain)
+
+#### 💻 **Languages**  
+- `Java`, `Python`, `R`, `HTML`, `CSS`, `JavaScript`
+
+#### 📱 **Mobile / Frontend**  
+- `React Native`, `Android (Java)`
+
+---
+
+### 💡 Quote
+
+> *"Keep learning, keep evolving, and rise to greatness."*
 
 ---
 
