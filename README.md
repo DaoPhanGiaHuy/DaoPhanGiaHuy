@@ -17,11 +17,11 @@
 
 
 - 🔬 Areas of interest:
-  - Artificial Intelligence (AI)
+  - Artificial Intelligence (Machine Learning & Deep Learning)
   - Data Science
   - Internet of Things (IoT)
   - Quantum Computing
-  - Machine Learning & Deep Learning
+  - Cloud Computing
   - Natural Language Processing (NLP)
   - Computer Vision
   - Integrated Circuit (IC) Design
